@@ -1,0 +1,29 @@
+body {
+    background-image: url("/Users/shrutiaj/Downloads/green-artificial-grass-texture-background_252965-797.jpg.avif");
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+
+ button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    margin-bottom: 5px;
+ }
