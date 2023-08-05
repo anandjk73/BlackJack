@@ -75,6 +75,7 @@ function newCard() {
         sum += card
         renderGame()
     } else {
+        isAlive = true
         message = "start game first"    
         messageEl.textContent = message
     }
